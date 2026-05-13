@@ -1,5 +1,5 @@
-GARDEN RAIN BARREL SHELTER – BUILD PLANS (WITH AUGER RENTAL)
-============================================================
+GARDEN RAIN BARREL SHELTER – BUILD PLANS (CORRECTED BRACE SECTION)
+==================================================================
 
 SAFETY FIRST – READ BEFORE STARTING
 ------------------------------------
@@ -69,16 +69,23 @@ LUMBER (pressure-treated ground contact or cedar)
 4×4 × 8 ft (4 pieces)        – Corner posts (cut square to 7 ft and 6 ft)
 2×6 × 8 ft (4 pieces)        – Top beams (cut square to 8 ft)
 2×4 × 8 ft (3 pieces)        – Roof rafters (store cut to 4 ft 6 in square)
-2×4 × 8 ft (2 pieces)        – Diagonal braces (store cut to 3 ft each)
+2×4 × 8 ft (2 pieces)        – Diagonal braces (store cut to 3 ft each – square cuts only)
 ¾" exterior plywood (1 sheet, 4×8 ft) – Roof deck
 1×6 × 8 ft (2 pieces)        – Fascia board for gutter
 
-CONNECTORS & FASTENERS (Simpson Strong-Tie)
--------------------------------------------
+CONNECTORS & FASTENERS – MAIN STRUCTURE
+----------------------------------------
 LRU26Z slopeable rafter hanger (6 qty)      – For rafters to beams (3 rafters × 2 ends)
 BC40Z post cap bracket (4 qty)              – For 4×4 post to 2×6 beam
-#10 × 2½" Strong-Drive SD screws (1 box)    – ACQ-rated for treated wood
+#10 × 2½" Strong-Drive SD screws (1 box)    – ACQ-rated for treated wood (main screws)
 1½" exterior screws (1 box)                 – For plywood to rafters
+
+OPTIONAL – FOR DIAGONAL BRACES (CHOOSE ONE OPTION)
+---------------------------------------------------
+OPTION A (Stronger, easier alignment): Simpson A35Z framing angle (4 qty)
+   + #9 × 1½" Strong-Drive SD screws (these are shorter than the main screws)
+
+OPTION B (Simplest, no extra cost): No brackets – use #10 × 2½" screws directly
 
 ROOFING & FLASHING
 ------------------
@@ -116,19 +123,22 @@ Fast-setting concrete mix (4 bags, 50 lb each) – One bag per hole
 
 TOOLS YOU WILL NEED
 -------------------
-□ Circular saw or hand saw – ONLY for cutting rafter ends
+□ Circular saw or hand saw – For cutting rafter ends and brace angles
+□ Miter saw (helpful but not required for scribe method)
+□ Speed square – For marking right angles ($8 at hardware store)
 □ Drill / driver – For all screws
+□ 1/8" drill bit – For predrilling brace holes (if not using self-drilling screws)
 □ Level (2 ft and 4 ft) – For posts and beams
 □ Tape measure – For layout and spacing
 □ Shovel – For digging (backup, or for cleaning up holes)
 □ String (50 ft) – For layout lines
 □ Stakes (8) – For holding strings
 □ Step ladder – For gutter and roofing
-□ Speed square – For marking rafter angles ($8 at hardware store)
 □ Pencil – For marking cuts
+□ Clamps – To hold braces while marking and cutting (helpful but not required)
 □ Work gloves – For handling blocks and lumber
 □ Safety glasses – For cutting, drilling, and using auger
-□ Hearing protection – For using auger (earplugs or earmuffs)
+□ Hearing protection – For using auger and saws
 
 RENTAL (not purchased)
 ----------------------
@@ -165,9 +175,9 @@ Rafter #1 – Cut square to 4 ft 6 in
 Rafter #2 – Cut square to 4 ft 6 in
 Rafter #3 – Cut square to 4 ft 6 in
 
-BRACES (2×4)
-------------
-Diagonal braces (4 pieces) – Cut each to 3 ft square
+BRACES (2×4) – store cuts square to 3 ft; YOU will cut angles by scribing at home
+-----------------------------------------------------------------------------------
+DO NOT pre-cut angles at the store. You will cut each brace to fit individually using the scribe method (see Step 8).
 
 FASCIA (1×6)
 ------------
@@ -179,10 +189,12 @@ PLYWOOD
 ¾" plywood – Ask them to rip the 4×8 sheet into two 2×8 ft pieces (easier to transport)
 
 
-WHAT YOU WILL CUT AT HOME (THE ONLY ANGLE CUTS)
-------------------------------------------------
-- Rafter ends: 6 cuts total (3 rafters × 2 ends each)
-- Angle will be about 14 degrees. A speed square makes this easy (detailed in Step 8).
+WHAT YOU WILL CUT AT HOME (THE ONLY CUTS YOU MAKE)
+---------------------------------------------------
+1. Rafter ends: 6 cuts total (3 rafters × 2 ends each) – angle matches roof slope (scribe method).
+2. Brace ends: 8 cuts total (4 braces × 2 ends each) – cut by scribing (trapezoid shape, NOT parallelogram).
+
+See Part 3, Steps 8 and 9 for detailed cutting instructions.
 
 
 PART 3 – STEP-BY-STEP INSTRUCTIONS
@@ -221,14 +233,7 @@ IMPORTANT: Call 811 at least 2-3 days before digging to mark underground utiliti
 3. Transport the auger to your work site (needs truck or SUV with hatch).
 4. Each hole should be: 12 inches wide (diameter) × 24 inches deep.
 5. POSITION: Center each hole directly under the string (or on the laser-marked line).
-6. Use the auger with a partner:
-   - Both operators stand opposite each other, holding the handles.
-   - Position the bit over the center of the hole.
-   - Start the engine. Squeeze throttle to engage spinning bit.
-   - Let the auger do the work – do NOT push down hard.
-   - Lift the auger out every 6-12 inches to clear dirt.
-   - If you hit a root or rock and the auger stops, RELEASE THROTTLE immediately.
-   - Remove the obstruction by hand with a shovel or digging bar.
+6. Use the auger with a partner (follow safety instructions in the Auger Rental section above).
 7. After all 4 holes are dug, return the auger to the rental store.
 
 STEP 4 – UNDERSTANDING THE BC40Z POST CAP (READ THIS BEFORE SETTING POSTS)
@@ -279,19 +284,51 @@ STEP 6 – ATTACH BEAMS USING POST CAPS
 4. Once level, screw through the BC40Z into the beam using #10 × 2½" SD screws. Use every hole in the bracket.
 5. Repeat for the low side beam.
 
-STEP 7 – ADD DIAGONAL BRACES (PREVENTS RACKING/SWAYING)
---------------------------------------------------------
-1. Cut one end of each 3 ft 2×4 brace at a 45° angle (use a speed square to mark).
-2. Screw the angled end to the side of a post, about 2 ft above ground.
-3. Screw the other end to the underside of the beam.
-4. Repeat for all 4 corners.
+STEP 7 – UNDERSTANDING THE BRACE SHAPE (READ THIS BEFORE CUTTING)
+-----------------------------------------------------------------
 
-STEP 8 – MARK AND CUT RAFTER ENDS (THE ONLY ANGLE CUTS YOU MAKE)
-----------------------------------------------------------------
+WHAT SHAPE SHOULD THE BRACE BE?
+- The brace connects a VERTICAL post to a HORIZONTAL beam.
+- Because these are at 90° to each other, the brace must be a TRAPEZOID (not a parallelogram).
+- A trapezoid has one pair of parallel sides (the top and bottom of the brace) and two non-parallel ends (the cuts).
+
+WHAT HAPPENS IF I CUT BOTH ENDS AT THE SAME ANGLE?
+- You will get a parallelogram. It will NOT sit flush against the post and beam. It will rock or leave gaps.
+
+HOW DO I GET THE CORRECT SHAPE?
+- Use the SCRIBE METHOD (Step 8 below). Do NOT guess the angle. Do NOT use a fixed 45° cut.
+- Hold the brace in place and trace the actual post and beam onto the brace. Then cut along those lines.
+
+STEP 8 – CUT THE BRACES USING THE SCRIBE METHOD (TRAPEZOID SHAPE)
+------------------------------------------------------------------
+
+For EACH brace (one at a time):
+
+1. Start with a 2×4 cut square to 3 ft (from the store).
+2. Hold the brace against the post and beam in its final position. Let it overlap both.
+3. Use a pencil to trace along the EDGE of the post onto the brace. This is your first cut line.
+4. Remove the brace. Cut along that line with your saw.
+5. Hold the brace back in position (the cut end should now sit flush against the post).
+6. Now trace along the BOTTOM EDGE of the beam onto the brace. This is your second cut line.
+7. Remove the brace. Cut along the second line.
+8. Test fit. The brace should now sit flush against both the post and the beam.
+9. If it is slightly too long, trim a tiny amount (1/16") from the end touching the beam and test again.
+10. Repeat for all 4 braces.
+
+The two cuts will be DIFFERENT angles – that is correct. The brace will be a trapezoid.
+
+VISUAL CHECK:
+- Hold the brace in place. The top edge (touching the beam) should be longer than the bottom edge (touching the post).
+- Both angled ends should sit flat with no rocking.
+
+PRO TIP: Label each brace (e.g., "Front High," "Front Low") because each one may fit slightly differently.
+
+STEP 9 – MARK AND CUT RAFTER ENDS (ALSO USE SCRIBE METHOD)
+----------------------------------------------------------
 
 WHAT IS A RAFTER? A rafter is one of the 2×4 boards that goes from the high beam to the low beam. The roof deck attaches to the rafters.
 
-HOW TO CUT THE ANGLES (use a speed square – buy one for $8 at the hardware store):
+HOW TO CUT THE ANGLES (scribe method – no protractor needed):
 
 1. Take one 2×4 rafter (store cut to 4 ft 6 in square).
 2. Hold it across the two beams (high beam to low beam). Let it overhang each beam by about 1 inch.
@@ -301,10 +338,8 @@ HOW TO CUT THE ANGLES (use a speed square – buy one for $8 at the hardware sto
 6. Test-fit the rafter back on the beams. It should sit flush against both beams.
 7. Repeat for all 3 rafters.
 
-No protractor needed – tracing the actual beams gives you the perfect angle every time.
-
-STEP 9 – INSTALL RAFTER HANGERS (LRU26Z) AND RAFTERS
-----------------------------------------------------
+STEP 10 – INSTALL RAFTER HANGERS (LRU26Z) AND RAFTERS
+-----------------------------------------------------
 1. Decide where the 3 rafters will go: at 0 inches, 24 inches, and 48 inches from one end of the 8 ft span.
 2. For the first rafter location (24 inches in from the end):
    - Attach one LRU26Z hanger to the high beam using SD screws.
@@ -314,7 +349,28 @@ STEP 9 – INSTALL RAFTER HANGERS (LRU26Z) AND RAFTERS
 5. Screw through the hanger into the rafter using SD screws.
 6. Repeat for the remaining 2 rafters (0" and 48").
 
-STEP 10 – ATTACH PLYWOOD ROOF DECK
+STEP 11 – ATTACH DIAGONAL BRACES (TWO OPTIONS)
+-----------------------------------------------
+
+OPTION A – Using Simpson A35Z Brackets (Stronger):
+1. Position a brace so its cut ends sit flush against the post and the bottom of the beam.
+2. Place an A35Z bracket across the joint where the brace meets the post.
+3. Screw through the bracket into the post and brace using #9 × 1½" SD screws.
+4. Repeat for the brace-to-beam joint.
+5. Repeat for all 4 corners.
+
+OPTION B – No Brackets (Simplest, no extra cost):
+1. Position a brace so its cut ends sit flush against the post and the bottom of the beam.
+2. PREDRILL (recommended): Use a 1/8" drill bit to drill pilot holes through the brace and into the post (3 holes per connection).
+3. Drive #10 × 2½" screws STRAIGHT IN (horizontally) through the brace into the post.
+4. At the top of the brace, predrill 3 pilot holes through the brace into the bottom of the beam.
+5. Drive #10 × 2½" screws STRAIGHT UP into the beam.
+6. Repeat for all 4 corners.
+
+IMPORTANT: Screws go STRAIGHT IN – not angled. Screwing straight into the wide face gives the strongest hold.
+Predrilling prevents the 2×4 brace from splitting, especially near the cut ends.
+
+STEP 12 – ATTACH PLYWOOD ROOF DECK
 ----------------------------------
 1. Lay the ¾" plywood sheets on top of the rafters.
 2. The plywood should overhang the LOW side by about 1 inch (for drip edge).
@@ -323,7 +379,7 @@ STEP 10 – ATTACH PLYWOOD ROOF DECK
    - Place screws every 12 inches in the middle of the sheets.
 4. If using two 2×8 ft sheets (ripped at the store), leave a 1/8" gap between them for expansion.
 
-STEP 11 – APPLY ROOFING
+STEP 13 – APPLY ROOFING
 -----------------------
 OPTION A – Roll roofing:
 - Unroll the roofing so it overhangs the low side by 1 inch.
@@ -335,7 +391,7 @@ OPTION B – Metal panel:
 - Screw through the ribs (the raised parts) into the plywood using rubber-washer screws.
 - Place screws about 12 inches apart along each rib.
 
-STEP 12 – ADD FASCIA AND GUTTER
+STEP 14 – ADD FASCIA AND GUTTER
 -------------------------------
 1. Screw the 1×6 fascia board to the ends of the rafters on the LOW side only.
 2. Mount gutter brackets (hangers) to the fascia board:
@@ -345,7 +401,7 @@ STEP 12 – ADD FASCIA AND GUTTER
 4. Attach end caps and the gutter outlet (where downspout connects) with gutter sealant.
 5. Attach downspout elbows and the vertical downspout pipe. Aim it so water falls into barrel #1.
 
-STEP 13 – BUILD CINDER BLOCK PLATFORM
+STEP 15 – BUILD CINDER BLOCK PLATFORM
 -------------------------------------
 1. Under the downspout, build two 2×2 block pads (one for each barrel).
    - Bottom layer: place 4 blocks in a 2×2 grid (blocks touching each other).
@@ -353,7 +409,7 @@ STEP 13 – BUILD CINDER BLOCK PLATFORM
 2. Total height ≈ 16 inches (two blocks stacked).
 3. Place both 55-gallon barrels on the pads, side by side.
 
-STEP 14 – CONNECT BARRELS AND ADD SPIGOT
+STEP 16 – CONNECT BARRELS AND ADD SPIGOT
 ----------------------------------------
 1. Barrel #1 (under the downspout):
    - Cut a hole near the top for the downspout to enter.
@@ -364,7 +420,7 @@ STEP 14 – CONNECT BARRELS AND ADD SPIGOT
 5. Install the brass spigot (wrap threads with Teflon tape first to prevent leaks).
 6. Optional but smart: add an overflow port near the top of barrel #2 with a hose leading away from the foundation.
 
-STEP 15 – TEST YOUR SYSTEM
+STEP 17 – TEST YOUR SYSTEM
 --------------------------
 1. Pour a bucket of water onto the roof.
 2. Watch the water flow into the gutter, down the downspout, and into barrel #1.
@@ -382,6 +438,8 @@ TROUBLESHOOTING COMMON PROBLEMS
 | Water leaks at downspout | Missing sealant | Add gutter sealant to outlet connection |
 | Barrel leaks at spigot | No Teflon tape | Remove spigot, wrap threads, reinstall |
 | Auger gets stuck | Root or rock | Release throttle, remove obstruction by hand |
+| Brace does not sit flush | Cuts are parallel (parallelogram shape) | Re-cut using scribe method – ends must be different angles |
+| Brace rocks or leaves gap | Wrong shape | Use scribe method, cut each end individually |
 
 HELPFUL DEFINITIONS FOR BEGINNERS
 ---------------------------------
@@ -393,6 +451,21 @@ HELPFUL DEFINITIONS FOR BEGINNERS
 - Saddle = the U-shaped part of a bracket that holds a beam
 - Shim = thin piece of material used to level or adjust height
 - ACQ = type of pressure-treated wood (most outdoor lumber)
+- Scribe = to trace the outline of one piece onto another to get a perfect fit
+- Trapezoid = a shape with one pair of parallel sides (top and bottom) – this is correct for your brace
+- Parallelogram = a shape with both pairs of sides parallel – this is WRONG for your brace
+
+QUICK REFERENCE – BRACE CUTTING AND INSTALLATION
+------------------------------------------------
+| Question | Answer |
+|----------|--------|
+| What shape should the brace be? | TRAPEZOID (top and bottom parallel, ends NOT parallel) |
+| How do I cut the ends? | SCRIBE METHOD – hold in place, trace, cut, repeat |
+| Are the two cuts the same angle? | NO – they will be different. That is correct. |
+| Can I set my saw to 45° for both ends? | NO – that creates a parallelogram which will not fit. |
+| When installed, which edge is longer? | The top edge (touching the beam) is longer than the bottom edge (touching the post). |
+| Screw direction (no brackets) | STRAIGHT IN (horizontal into post, vertical up into beam) |
+| Should you predrill for braces? | YES – use 1/8" bit to prevent splitting |
 
 NOTES FOR PRINTING
 ==================
